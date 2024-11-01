@@ -36,7 +36,7 @@ export default function Home() {
           Peringatan!
         </motion.h1>
         <motion.p
-          className="lg:text-2xl text-xl font-bold text-center"
+          className="lg:text-2xl text-xl font-bold text-center text-gray-900"
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ duration: 1 }}
